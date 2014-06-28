@@ -1,0 +1,8 @@
+{
+  "name": "basic",
+  "description": "will be on Azure",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "~2.36.0"
+  }
+}
