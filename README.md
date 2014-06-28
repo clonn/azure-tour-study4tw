@@ -6,6 +6,9 @@ Have to read all project and `package.json` and know how to use.
 
 ##Slide
 
+[![ScreenShot](https://raw.github.com/clonn/azure-tour-study4tw/master/ressources/AzureLovesNode.png)](http://www.slideshare.net/clonncd/nodejs-x-azure-cli-website-deployment)
+
+
  * [slide](./slide)
 
 ##socket.io
